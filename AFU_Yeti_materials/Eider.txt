@@ -1,0 +1,23 @@
+Eider
+
+File Instructions:
+1) Go to https://eider.corp.amazon.com/
+2) Click ‘FILES’ at top of screen
+3) Click CHOOSE FILE 
+4) Select Support_Files/sales.txt from Course Files
+5) Click UPLOAD
+6) Repeat for fortune_data.xlsx and aggregated_sales.csv
+
+
+Notebook Locations (copy link into browser, once open click IMPORT)
+
+AFU PDA - Python Basics : https://eider.corp.amazon.com/dangoodb/notebook/NBDVXRQWD2
+AFU PDA - Python Basics - Answer Key : https://eider.corp.amazon.com/dangoodb/notebook/NBPLZY3G2T
+
+AFU PDA - Pandas Basics : https://eider.corp.amazon.com/dangoodb/notebook/NB7AYV0TTM
+
+AFU PDA - Pandas - Groupby, pivot_table, transform and melt : https://eider.corp.amazon.com/dangoodb/notebook/NB0U3JNRQO
+AFU PDA - Pandas - Groupby, pivot_table, transform and melt - Answer Key : https://eider.corp.amazon.com/dangoodb/notebook/NB3KPEQG40
+
+AFU PDA - Stock Prices : https://eider.corp.amazon.com/dangoodb/notebook/NBMXGXAXSC
+AFU PDA - Stock Prices - Answer Key : https://eider.corp.amazon.com/dangoodb/notebook/NBTU9LPWDH
